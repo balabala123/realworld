@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\layout",
+    "children": [
+      {
+        "name": "home",
+        "path": "",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\home",
+        "_name": "_29bc1b9b"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\login",
+        "_name": "_0dffa02d"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\login",
+        "_name": "_0dffa02d"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\profile",
+        "_name": "_65bf196d"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\settings",
+        "_name": "_3937b642"
+      },
+      {
+        "path": "/editor/:slug?",
+        "name": "editor",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\editor",
+        "_name": "_b52eedae"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\phpstudy_pro\\\\WWW\\\\realworld\\\\pages\\\\article",
+        "_name": "_4c895cba"
+      }
+    ],
+    "_name": "_9d913a34"
+  }
+]
