@@ -1,2 +1,1 @@
-# realworld
-homework module 3-3
+# realworld-nuxtjs
