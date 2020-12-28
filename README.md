@@ -1,1 +1,1 @@
-# realworld-nuxtjs
+# realworld
