@@ -23,7 +23,9 @@
           <li class="nav-item">
             <nuxt-link class="nav-link" :to="{
               name: 'profile',
-              username: user.username
+              params: {
+                username: user.username
+              }
             }">
               <img :src="user.image" class="user-pic" alt="">
               {{user.username}}
